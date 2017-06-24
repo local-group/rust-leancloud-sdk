@@ -1,0 +1,8 @@
+[package]
+name = "leancloud-sdk"
+version = "0.1.0"
+authors = ["Qian LinFeng <thewawar@gmail.com>"]
+
+[dependencies]
+reqwest = "0.6.2"
+serde_json = "1.0.2"
